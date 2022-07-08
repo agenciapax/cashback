@@ -1,0 +1,121 @@
+*{
+    color: aliceblue;
+}
+body{
+    background: radial-gradient(circle at 100%, #0b003a, #8000e9,#00249b);
+    background-repeat: no-repeat;
+}
+
+b{color: orange;}
+
+.menu{
+    color: white !important;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.btn{color: aliceblue;}
+
+.video{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+video{border: #88047d 4px solid;}
+
+.resul {
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.vantagens{
+    text-align: center;
+}
+
+.info{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.if{margin:3px;padding: 10px;border-radius: 5px;
+     background-color:#3e048a;border-bottom: 2px solid #bdbdbd;
+    }
+
+.func{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.panel img{
+    width: 100%;
+}
+
+.devu h1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.footer{
+    margin-top: 1rem;
+    background-color: white;
+    color: #0f0053 !important;
+    border-bottom: 12px solid orange;
+    border-radius:3px 3px 0px 0px;
+}
+
+.footer .col-md-4{
+    margin-top: 1rem;
+    color: #333 !important;
+    margin-bottom: 1rem;
+    font-size: 14px;
+    text-align: left;
+    padding-left:30px ;
+}
+
+.footer .col-md-4 h5{
+    color: purple !important;
+}
+.footer .col-md-4 small{
+    color: #000 !important;
+}
+
+.footer .col-md-4 a{
+    color: #000 !important;
+    text-decoration: none;
+}
+
+.copy{
+    color: #000;
+    font-size: 12px;
+    padding: 5px;
+}
+
+@media (max-width: 420px)
+{
+*{text-align:center !important;}
+
+video {
+    max-width: 340px;
+    margin-bottom: 1rem;
+}
+
+.on{
+    display: block;
+}
+
+.off {
+    display: none;
+}
+
+.logo{
+    margin-bottom: 10px;
+}
+
+.menu a {
+    width: 100%;
+}
+
+
+}
