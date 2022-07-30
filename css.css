@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
 }
 
-b{color: orange;}
+b{color: #ff4f56;}
 
 .menu{
     color: #555555 !important;
@@ -39,7 +39,8 @@ video{border: #fef8fe 4px solid;}
 }
 
 .if{margin:3px;padding: 10px;
-     border-left: 2px solid #fe8266;color: #333; background-color: white;
+     border-left: 3px solid #fe8266;color: #333; background-color:#ffffff;
+    border-radius: 3px;
     }
 
 .func{
