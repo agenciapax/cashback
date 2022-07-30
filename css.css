@@ -1,27 +1,27 @@
 *{
-    color: aliceblue;
+    color: #555555;
 }
 body{
-    background: radial-gradient(circle at 100%, #0b003a, #8000e9,#00249b);
+    background: radial-gradient(circle at 100%, #ffeaff, #fef8fe,#fef8fe);
     background-repeat: no-repeat;
 }
 
 b{color: orange;}
 
 .menu{
-    color: white !important;
+    color: #555555 !important;
     margin-bottom: 2rem;
     margin-top: 1rem;
 }
 
-.btn{color: aliceblue;}
+.btn{color: #333;}
 
 .video{
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
 
-video{border: #88047d 4px solid;}
+video{border: #fef8fe 4px solid;}
 
 .resul {
     margin-bottom: 0.5rem;
@@ -38,8 +38,8 @@ video{border: #88047d 4px solid;}
     margin-bottom: 1rem;
 }
 
-.if{margin:3px;padding: 10px;border-radius: 5px;
-     background-color:#3e048a;border-bottom: 2px solid #bdbdbd;
+.if{margin:3px;padding: 10px;
+     border-left: 2px solid #fe8266;color: #333; background-color: white;
     }
 
 .func{
@@ -61,7 +61,7 @@ video{border: #88047d 4px solid;}
     margin-top: 1rem;
     background-color: white;
     color: #0f0053 !important;
-    border-bottom: 12px solid orange;
+    border-bottom: 12px solid #555;
     border-radius:3px 3px 0px 0px;
 }
 
@@ -75,7 +75,7 @@ video{border: #88047d 4px solid;}
 }
 
 .footer .col-md-4 h5{
-    color: purple !important;
+    color: #ff4f56 !important;
 }
 .footer .col-md-4 small{
     color: #000 !important;
@@ -115,6 +115,7 @@ video {
 
 .menu a {
     width: 100%;
+    color: #555555 !important;
 }
 
 
